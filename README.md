@@ -21,7 +21,9 @@ Another essential tool is the use of virtual human models and simulation softwar
 #
 ### Related Links
 
-[ChatGPT](https://github.com/sourceduty/ChatGPT)
+[Air Bubble Clock](https://github.com/sourceduty/Air_Bubble_Clock)
+<br>
+[Corn Cob Rotisserie](https://github.com/sourceduty/Corn_Cob_Rotisserie)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
