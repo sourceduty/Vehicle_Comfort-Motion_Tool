@@ -1,6 +1,6 @@
 ![Vehicle Comfort-Motion Analysis Tool](https://github.com/user-attachments/assets/ef1a2fde-cef9-4e99-9086-4ae153191bd7)
 
-> Measure the comfort of vehicle's passenger seats during motion per mile/kilometer.
+> Measure the comfort of any vehicle's passenger seats during motion per mile/kilometer.
 #
 
 The Vehicle Comfort-Motion Analysis Tool is a state-of-the-art device designed to evaluate the comfort levels experienced by passengers in a moving vehicle. This tool is specifically engineered to measure how motion impacts the comfort of individual passenger seats over a mile or kilometer of travel. By analyzing parameters such as vibrations, seat stability, and overall ride quality, the tool provides an objective assessment that aids in improving passenger experience. This is particularly useful for vehicle manufacturers, fleet operators, and individuals who prioritize comfort during transportation.
